@@ -9,7 +9,7 @@
   "author": "devkhoded",
   "license": "ISC",
   "dependencies": {
-    "grpc": "^1.22.2",
+    "grpc": "^1.24.9",
     "mongoose": "^5.6.5"
   }
 }
